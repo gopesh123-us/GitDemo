@@ -9,7 +9,7 @@
 Adding <em>more</em> new features<br/>
 <ul>
 <li>font - Roboto blue</li>
-<li>Font - Font awesome</li>
+<li>Font - Font awesome	</li>
 </ul>
 </body>
 </html>

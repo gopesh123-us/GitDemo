@@ -13,5 +13,6 @@ integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd
 <h3 style="color:red;">From the Indian guy - trying making it look pretty</h3>
 <h3 style="color:blue;">Added in a new branch "develop"</h3>
 <p>New Features are added. <a href="newfeatures.jsp">Click here</a></p>
+<p>New Features are added. <a href="morefeatures.jsp">more features by US team</a></p>
 </body>
 </html>

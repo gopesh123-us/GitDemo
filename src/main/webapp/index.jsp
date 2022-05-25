@@ -15,6 +15,5 @@ integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd
 <p>New Features are added. <a href="newfeatures.jsp">Click here</a></p>
 <p>New Features are added. <a href="morefeatures.jsp">more features by US team</a></p>
 <p>New Features are added. <a href="teamonefeatures.jsp">more features by team one</a></p>
-
 </body>
 </html>
